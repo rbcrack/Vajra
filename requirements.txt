@@ -16,3 +16,4 @@ flask_bcrypt
 crayons
 psycopg2-binary 
 WTForms==2.3.3
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
